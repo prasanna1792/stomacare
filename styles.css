@@ -1,0 +1,66 @@
+.logo-text {
+    font-family: 'Rampart One';font-size: 40px;
+}
+.slogan-text {
+    font-family: 'Niconne';font-size: 22px;
+}
+.img-logo {
+    width: 125px;
+}
+.faq-img {
+    height: 250px;
+    width: 250px;
+}
+.card-image {
+    height: 335px;
+    width: 335px;
+}
+.body-font {
+    font-family: 'Roboto Condensed';font-size: 21px;
+}
+.jumbotron-home {
+  background-image: url("res/imgs/jhsd342.png");
+  background-size: cover;
+}
+.jumbotron-about {
+  background-image: url("res/imgs/rty453.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.jumbotron-services {
+  background-image: url("res/imgs/jhsgd763.png");
+  background-size: cover;
+  background-position: center;
+}
+.jumbotron-ostomies {
+  background-image: url("res/imgs/tywsd231.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.jumbotron-contact {
+  background-image: url("res/imgs/jhgsd67.png");
+  background-size: cover;
+  background-position: center;
+}
+.jumbotron-video {
+  background-image: url("res/imgs/ghsf873.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.jumbotron-faq {
+  background-image: url("res/imgs/kjhf7431.png");
+  background-size: cover;
+  background-position: center;
+}
+.li {
+    list-style-type: none;
+}
+.card-opacity {
+    opacity: 0.85;
+    transition: transform .2s;
+}
+
+.card-opacity:hover {
+    opacity: 1;
+    transform: scale(1.07); 
+}
